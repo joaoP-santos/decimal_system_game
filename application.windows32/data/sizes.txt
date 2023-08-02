@@ -1,0 +1,2 @@
+shulkerStore: 194 x 251
+bundleStore: 271 x 383
